@@ -1,2 +1,2 @@
-# git.booking.com
+# careers.booking.com
 subdomain takeover 
